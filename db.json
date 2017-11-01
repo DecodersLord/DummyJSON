@@ -1,17 +1,36 @@
-{
-"user":[
-{
+[{
   "id": 1,
-  "Name": "Seares",
-  "Description": "Readshall"
+  "first_name": "Cordula",
+  "last_name": "Ardley",
+  "email": "cardley0@epa.gov",
+  "gender": "Female",
+  "ip_address": "176.229.27.40"
 }, {
   "id": 2,
-  "Name": "Zannini",
-  "Description": "Rowly"
+  "first_name": "Guglielma",
+  "last_name": "VanBrugh",
+  "email": "gvanbrugh1@columbia.edu",
+  "gender": "Female",
+  "ip_address": "178.158.228.47"
 }, {
   "id": 3,
-  "Name": "Garwood",
-  "Description": "Francesconi"
-}
-]
-}
+  "first_name": "Amalie",
+  "last_name": "Tranckle",
+  "email": "atranckle2@e-recht24.de",
+  "gender": "Female",
+  "ip_address": "22.15.2.63"
+}, {
+  "id": 4,
+  "first_name": "Richard",
+  "last_name": "Casburn",
+  "email": "rcasburn3@about.com",
+  "gender": "Male",
+  "ip_address": "222.170.20.107"
+}, {
+  "id": 5,
+  "first_name": "Valida",
+  "last_name": "Janz",
+  "email": "vjanz4@tinypic.com",
+  "gender": "Female",
+  "ip_address": "218.26.230.244"
+}]
